@@ -1,4 +1,4 @@
-import { Row } from "../row/row"
+import { Row } from "../row/row";
 
 export class Table {
   constructor() {
